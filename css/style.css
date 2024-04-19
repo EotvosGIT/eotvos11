@@ -2,7 +2,9 @@ header{background-image: url(../img/GitHub.png);
        background-size: cover;
        height: 400px;}
 
-#tnav{display: none;}       
+#tnav{display: none;}  
+
+#teams{margin: auto;}
 
 #teams img{width: 500px;
            height: 500px;}
@@ -26,6 +28,7 @@ article{margin-top: 50px;
      
 #two h2{font-size: 1.5rem;}
 
+.pfs{font-size: 1.5rem;}
 
           
 
